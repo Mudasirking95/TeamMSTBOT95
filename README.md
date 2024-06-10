@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> 𝗪𝗔𝗦𝗜 𝗠𝗗 </h1> 
+<h1 align="center"> 𝕄𝕊𝕋  𝗠𝗗 </h1> 
 <p align="center"> Introducing 𝘄𝗮𝘀𝗶 𝗻𝗱, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 
 [![wasi tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+Repo;I+am+WASI+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/Kingjux)
@@ -18,7 +18,7 @@
   <a href="https://wa.me/+923135673658?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+WASI-md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
  
-  <a aria-label="wasi-md is free to use" href="https://github.com/wasixd/WASI-MD" target="_blank">
+  <a aria-label="mst-md is free to use" href="https://github.com/wasixd/WASI-MD" target="_blank">
     <img alt="wasitech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
@@ -29,7 +29,7 @@
 
 
 
-<p align="center"> 𝗪𝗔𝗦𝗜 𝗠𝗗 uses
+<p align="center"> 𝕄𝕊𝕋  𝗠𝗗 uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -39,7 +39,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/wasixd/WASI-MD"><b>WASI-md</b></a> Support Deploy On...
+  <a href="https://github.com/wasixd/WASI-MD"><b>MST-md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
@@ -75,9 +75,9 @@
 
 
 
-<h3>Wasi-MD Stats</h3>
+<h3>Mst-MD Stats</h3>
 
-![Wasi-MD Stats](https://github-readme-stats.vercel.app/api/pin/?username=wasixd&repo=WASI-MD&show_owner=true&theme=dark)
+![Mst-MD Stats](https://github-readme-stats.vercel.app/api/pin/?username=wasixd&repo=WASI-MD&show_owner=true&theme=dark)
 
 
     
@@ -89,7 +89,7 @@ if scan qr is not working please try using pairing code i am currently working o
 
 ---
 1. ***GET QR FROM SERVER 1 [`SESSION ID `](https://pair-qr-wasi-md.onrender.com).***
-2.  ***GET QR FROM SERVER 2 [`SESSION ID by pair code`](https://pair-qr-wasi-md.onrender.com).***
+2.  ***GET QR FROM SERVER 2 [`SESSION ID by pair code`](https://pair-qr-Mst-md.onrender.com).***
 ---
 `it is currently powerful working` `IF QR OR PAIR DOESN'T WORK THEN REPORT ME ON WHATSAPP JOIN MY SUPPORT GC`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
@@ -100,7 +100,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
   # <a href="https://pair-qr-wasi-md.onrender.com"><img title="fork" src="https://img.shields.io/badge/pair code -h?color=darkblue&style=for-the-badge&logo=msi"></a>
 
 # <a href="https://github.com/wasixd/WASI-MD/fork"><img title="fork" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi"></a>
-# <a href="https://dashboard.heroku.com/new?template=https://github.com/wasixd/WASI-MD"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=darkblue&style=for-the-badge&logo=msi"></a>
+# <a href="https://dashboard.heroku.com/new?template=https://github.com/wasixd/MST-MD"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 # <a href="https://railway.app/template/tM2McB?referralCode=v7Xehd"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 # <a href="(https://replit.com/github/wasixd/WASI-MD"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 # <a href="https://wasimd-9dedcea2edba.herokuapp.com/"><img title="koyeb" src="https://img.shields.io/badge/DEPLOY ON KYOEB-h?color=darkblue&style=for-the-badge&logo=msi"></a>
@@ -129,9 +129,9 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 </h2>
    
 ## 
-- *WASI MDVis not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *MST MDVis not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use WASI-Md at your own risk by keeping this warning in mind.*
 - [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/wasixd/WASI-MD)
 
-[![wasi tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+WASI+MD;🙏;🙏+✍🏾;🥰)](https://github.com/wasixd)
+[![MST tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+WASI+MD;🙏;🙏+✍🏾;🥰)](https://github.com/wasixd)
