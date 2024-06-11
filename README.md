@@ -52,8 +52,7 @@
   <a href="https://venocyber-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
   <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Mudasirking95/TeamMSTBOT95-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=923239950046&env[MONGODB_URI]&&env[OWNER_NAME]=Mudasirking ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Mudasir ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=VENOCYBER&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Venocyber-tech&env[KOYEB_NAME]=Mudasir-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/689064e344f4c43aea555.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 </p>
-  <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
-</p>
+  <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=red"></a></p>
 <p align="center">Need help? please create an <a href="https://github.com/Mudasirking95/TeamMSTBOT/issues">issue</a></p>
 
  
@@ -76,7 +75,7 @@
 
 
 
-<h3>Wasi-MD Stats</h3>
+<h3>MST-MD Stats</h3>
 
 ![MUDASIR Stats](https://github-readme-stats.vercel.app/api/pin/?username=Mudasirking95&repo=TeamMSTBOT95&show_owner=true&theme=dark)
 
@@ -89,22 +88,22 @@ if scan qr is not working please try using pairing code i am currently working o
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ---
-1. ***GET QR FROM SERVER 1 [`SESSION ID `](https://pair-qr-mst-md.onrender.com).***
-2.  ***GET QR FROM SERVER 2 [`SESSION ID by pair code`](https://pair-qr-mst-md.onrender.com).***
+1. ***GET QR FROM SERVER 1 [`SESSION ID `](https://pair-qr-wasi-md.onrender.com).***
+2.  ***GET QR FROM SERVER 2 [`SESSION ID by pair code`](https://pair-qr-wasi-md.onrender.com).***
 ---
 `it is currently powerful working` `IF QR OR PAIR DOESN'T WORK THEN REPORT ME ON WHATSAPP JOIN MY SUPPORT GC`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-<a href="https://pair-qr-mst-md.onrender.com"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=blue&style=for-the-badge&logo=msi"></a>
-  # <a href="https://pair-qr-mst-md.onrender.com"><img title="fork" src="https://img.shields.io/badge/pair code -h?color=blue&style=for-the-badge&logo=msi"></a>
+<a href="https://pair-qr-wasi-md.onrender.com"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=blue&style=for-the-badge&logo=msi"></a>
+  # <a href="https://pair-qr-wasi-md.onrender.com"><img title="fork" src="https://img.shields.io/badge/pair code -h?color=blue&style=for-the-badge&logo=msi"></a>
 
-# <a href="https://github.com/Mudasirking95/TeamMSTBOT95/fork"><img title="fork" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi"></a>
-# <a href="https://dashboard.heroku.com/new?template=https://github.com/Mudasirking95/TeamMSTBOT95"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=darkblue&style=for-the-badge&logo=msi"></a>
-# <a href="https://railway.app/template/tM2McB?referralCode=v7Xehd"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=darkblue&style=for-the-badge&logo=msi"></a>
-# <a href="(https://replit.com/github/wasixd/WASI-MD"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=blue&style=for-the-badge&logo=msi"></a>
-# <a href="https://Mudasirking95-9dedcea2edba.herokuapp.com/"><img title="koyeb" src="https://img.shields.io/badge/DEPLOY ON KYOEB-h?color=darkblue&style=for-the-badge&logo=msi"></a>
+# <a href="https://github.com/Mudasirking95/TeamMSTBOT95/fork"><img title="fork" src="https://img.shields.io/badge/FORK THIS REPO-h?color=blue&style=for-the-badge&logo=msi"></a>
+# <a href="https://dashboard.heroku.com/new?template=https://github.com/Mudasirking95/TeamMSTBOT95"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=blue&style=for-the-badge&logo=msi"></a>
+# <a href="https://railway.app/template/tM2McB?referralCode=v7Xehd"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=blue&style=for-the-badge&logo=msi"></a>
+# <a href="(https://replit.com/github/Mudasirking95/TeamMSTBOT95"><img title="raplir" src="https://img.shields.io/badge/REPLIT-h?color=blue&style=for-the-badge&logo=msi"></a>
+# <a href="https://Mudasirking95-9dedcea2edba.herokuapp.com/"><img title="koyeb" src="https://img.shields.io/badge/DEPLOY ON KYOEB-h?color=blue&style=for-the-badge&logo=msi"></a>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
