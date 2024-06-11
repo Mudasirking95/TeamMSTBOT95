@@ -25,7 +25,7 @@
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{Mudasirking95}/count.svg" alt="MUDASIR :: Visitor's Count" /></p>
 ---
-
+[! Mudasir Sports Group join?]https://chat.whatsapp.com/ERabPOT0akr9h8lZBfNXHa
 
 
 
@@ -39,11 +39,11 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/wasixd/WASI-MD"><b>WASI-md</b></a> Support Deploy On...
+  <a href="https://github.com/Mudasirking95/TeamMSTBOT95"><b>MUDASIR-MST</b></a> Support Deploy On...
 </p>
 
 <p align="center">
-  <a href="https://github.com/kingjux/venocyber-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://github.com/kingjux/venocyber-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5760"></a>
   <a href="https://railway.app/template/GZOvIe?referralCode=wVDLrh"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
 </p>
 <p align="center">
