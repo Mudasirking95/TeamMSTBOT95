@@ -23,9 +23,10 @@
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Mudasirking95}/count.svg" alt="MUDASIR :: Visitor's Count" /></p>
----
-[![𝙼𝚄𝙳𝙰𝚂𝙸𝚁 𝚂𝙿𝙾𝚁𝚃𝚂⁹⁵](https://youtube.com/@mudasir-56-technical?si=QfyENIhqu1Bsqw)].
+<p align="center"><img src="https://profile-counter.glitch.me/{Mudasirking95}/count.svg" alt="MUDASIR :: Visitor's Count" /></p>---
+-
+
+[![Join Whatsapp Group](https://img.shields.io/badge/Whatsapp-Profile-blue?style=flat-square&logo=Whatsapp)](https://chat.whatsapp.com/ERabPOT0akr9h8lZBfNXHa)
 
 
 
@@ -121,7 +122,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 [![Subscribe Youtube](https://img.shields.io/badge/Youtube-Profile-orange?style=flat-square&logo=youtube)](https://youtube.com/@mudasir-56-technical?si=QfyENIhqu1Bsqw)
 
-[![Telegram](https://img.shields.io/badge/Telegram-Profile-blue?style=flat-square&logo=telegram)](https://t.me/@mudasirking95)]
+[![Telegram](https://img.shields.io/badge/Telegram-Profile-blue?style=flat-square&logo=telegram)](https://t.me/@mudasirking95)
 
 
 
