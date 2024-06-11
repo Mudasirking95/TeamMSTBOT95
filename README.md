@@ -19,11 +19,11 @@
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=yellow" />
  
   <a aria-label="MUDASIR KING is free to use" href="https://github.com/Mudasirking95/TeamMSTBOT95" target="_blank">
-    <img alt="MST95" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+    <img alt="MST95" src="https://img.shields.io/youtube/channel/subscribersqlFI5IJ3Bab4LY9t" target="_blank" />
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{wasixd}/count.svg" alt="MUDASIR :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Mudasirking95}/count.svg" alt="MUDASIR :: Visitor's Count" /></p>
 ---
 
 
