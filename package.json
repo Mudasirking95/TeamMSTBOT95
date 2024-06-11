@@ -1,14 +1,14 @@
 {
-   "name": "wasi md",
+   "name": "MST md",
    "version": "1.0.0",
-   "description": "Multi device whatsapp bot by wasi.",
+   "description": "Multi device whatsapp bot by MST.",
    "main": "lib/smd.js",
    "type": "commonjs",  
    "scripts": {
             "run": "pm2 start lib/smd.js --deep-monitoring --attach --name Itxxwasi || node lib/smd.js",
-            "start": "pm2 start lib/smd.js --attach --name Itxxwasi || node lib/smd.js",
-            "stop": "pm2 stop Itxxwasi",
-            "heroku-postbuild": "git clone https://github.com/kingjux/Venocyber-md.git temp1 && mv temp1/.git .git && rm -rf temp1"
+            "start": "pm2 start lib/smd.js --attach --name ItxxMST || node lib/smd.js",
+            "stop": "pm2 stop MST95",
+            "heroku-postbuild": "git clone https://github.com/Mudasirking95/TeamMSTBOT95.git temp1 && mv temp1/.git .git && rm -rf temp1"
    },
    "author": "VenocyberTech",
    "license" :"Apache-2.0",
@@ -74,6 +74,6 @@
       "type": "git",
       "url": "git+https://github.com/kingjux/Venocyber-md.git"
    },
-   "bugs": { "url": "https://github.com/kingjux/Venocyber-md/issues" },
-   "homepage": "https://github.com/kingjux/Venocyber-md#readme"
+   "bugs": { "url": "https://github.com/Mudasirking95/TeamMSTBOT/issues" },
+   "homepage": "https://github.com/Mudasirking95/TeamMSTBOT95#readme"
 }
