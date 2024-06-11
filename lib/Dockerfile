@@ -17,9 +17,9 @@
 
  
 
-FROM quay.io/wasixd/WASI-MD
-RUN git clone https://github.com/wasixd/WASI-MD/root/wasixd
-WORKDIR /root/wasixd/
+FROM quay.io/Mudasirking95/TeamMSTBOT95
+RUN git clone https://github.com/Mudasirking95/TeamMSTBOT95/root/Mudasirking95
+WORKDIR /root/Mudasirking95/
 RUN npm install
 EXPOSE 8000
 CMD ["npm","start" ] 
