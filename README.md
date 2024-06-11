@@ -110,18 +110,18 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 
  `Star ⭐ repo if you like this bot`.
- If any problem, then [`Whatsapp Me Here`](https://wa.me/message/THZ3I25BYZM2E1)
+ If any problem, then [`Whatsapp Me Here`](https://wa.me/+923239950046)
 
 
 ### I Am
 - 
-[![View My GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Itxxwasi)
+[![View My GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Mudasirking95)
 
-[![Chat on WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/+923192173398)
+[![Chat on WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/+923239950046)
 
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square&logo=instagram)](https://www.instagram.com/itx_mee_wasi)
 
-[![Telegram](https://img.shields.io/badge/Telegram-Profile-blue?style=flat-square&logo=telegram)](https://t.me/@itxwasi)
+[![Telegram]6(https://img.shields.io/badge/Telegram-Profile-blue?style=flat-square&logo=telegram)](https://t.me/@mudasirking95)
 
 
 
@@ -129,9 +129,9 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 </h2>
    
 ## 
-- *WASI MDVis not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *MST MDVis not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use WASI-Md at your own risk by keeping this warning in mind.*
+- *Use MST-Md at your own risk by keeping this warning in mind.*
 - [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/Mudasirking95/TeamMSTBOT95)
 
-[![wasi tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+WASI+MD;🙏;🙏+✍🏾;🥰)](https://github.com/Mudasirking95)
+[![MST tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+WASI+MD;🙏;🙏+✍🏾;🥰)](https://github.com/Mudasirking95)
