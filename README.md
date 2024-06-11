@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Mudasirking95/TeamMSTBOT95">
-    <img alt="MUDASIR docs" height="300" src="https://telegra.ph/file/689064e344f4c43aea555.jpg">
+    <img alt="MUDASIR docs" height="300" src="https://telegra.ph/file/b77ecdeaecf7f1327d96d.jpg">
   </a>
 </p>
     
@@ -67,7 +67,7 @@
 4.  ***𝗪𝗢𝗥𝗗 𝗖𝗛𝗔𝗜𝗡 𝗚𝗔𝗠𝗘.***
 5.  ***𝗛𝗜𝗗𝗗𝗘𝗡 𝗖𝗔𝗥𝗗 𝗚𝗔𝗠𝗘***
 6.  ***𝗥𝗢𝗟𝗟𝗜𝗡𝗚 𝗗𝗜𝗖𝗘.***
-7.  
+7.  ***Mudasir Sports.***
 ##
 
 
@@ -121,7 +121,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square&logo=instagram)](https://www.instagram.com/itx_mee_wasi)
 
-[![Telegram]6(https://img.shields.io/badge/Telegram-Profile-blue?style=flat-square&logo=telegram)](https://t.me/@mudasirking95)
+[![Telegram]6(https://img.shields.io/badge/Telegram-Profile-blue?style=flat-square&logo=telegram)](https://t.me/@mudasirking95)]
 
 
 
