@@ -18,7 +18,7 @@ global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
 global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Pakistan";
-global.github=process.env.GITHUB|| "https://github.com/wasixd/WASI-MD";
+global.github=process.env.GITHUB|| "https://github.com/Mudasirking95/TeamMSTBOT95";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://github.com/wasixd/WASI-MD/blob/main/lib/assets/suhail.jpg" ; // SET LOGO FOR IMAGE 
@@ -73,10 +73,10 @@ module.exports = {
   VERSION : process.env.VERSION || "V.1.0.0",
   caption : process.env.CAPTION || "𝙵𝙸𝙻𝙴 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 ＷＡＳＩ ＭＤ🚩" , // ```『 ²⁴ ᴠᴇɴᴏᴄʏʙᴇʀ-ᴍᴅ 』```", //*『ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ』*\n youtube.com/@JASTINMTEWA-vn9pl"),
  
-  author : process.env.PACK_AUTHER|| "𝗪𝗔𝗦𝗜 ",
+  author : process.env.PACK_AUTHER|| "MST",
   packname: process.env.PACK_NAME || "♥️",
-  botname : process.env.BOT_NAME  || "𝗪𝗔𝗦𝗜 𝗠𝗗",
-  ownername:process.env.OWNER_NAME|| "It's 𝗜𝗧𝗫𝗫𝗪𝗔𝗦𝗜",
+  botname : process.env.BOT_NAME  || "MDT 𝗠𝗗",
+  ownername:process.env.OWNER_NAME|| "It's MUDASIR KING⁹⁵",
 
 
   errorChat : process.env.ERROR_CHAT || "",
@@ -92,7 +92,7 @@ module.exports = {
   aitts_Voice_Id : process.env.AITTS_ID || "01",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE||process.env.MODE || "public",
-  LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "WASI",
+  LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "MST",
 
 
 
