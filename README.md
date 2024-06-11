@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/wasixd/WASI-MD">
+  <a href="https://github.com/Mudasirking95/TeamMSTBOT95">
     <img alt="venocyber docs" height="300" src="https://telegra.ph/file/18a6be1692b8f5cd5b6e7.jpg">
   </a>
 </p>
@@ -18,7 +18,7 @@
   <a href="https://wa.me/+923135673658?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+WASI-md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
  
-  <a aria-label="mst-md is free to use" href="https://github.com/wasixd/WASI-MD" target="_blank">
+  <a aria-label="mst-md is free to use" href="https://github.com/Mudasirking95/TeamMSTBOT95" target="_blank">
     <img alt="wasitech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
@@ -39,7 +39,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/wasixd/WASI-MD"><b>MST-md</b></a> Support Deploy On...
+  <a href="https://github.com/Mudasirking95/TeamMSTBOT95"><b>MST-md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingjux%2Fvenocyber-md"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://venocyber-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
-  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Kingjux/Venocyber-md-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255698101622&env[MONGODB_URI]&&env[OWNER_NAME]=venocyber ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Venocyber ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=VENOCYBER&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Venocyber-tech&env[KOYEB_NAME]=Venocyber-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/ecb1a11c450276bf7d396.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
+  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Kingjux/Venocyber-md-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=923239956476&env[MONGODB_URI]&&env[OWNER_NAME]=мυ∂αѕιя κιиg⁹⁵&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=мυ∂αѕιя κιиg⁹⁵ ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=мυ∂αѕιя κιиg⁹⁵&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=мυ∂αѕιя κιиg⁹⁵&env[KOYEB_NAME]=Venocyber-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/ecb1a11c450276bf7d396.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 </p>
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
@@ -77,7 +77,7 @@
 
 <h3>Mst-MD Stats</h3>
 
-![Mst-MD Stats](https://github-readme-stats.vercel.app/api/pin/?username=wasixd&repo=WASI-MD&show_owner=true&theme=dark)
+![Mst-MD Stats](https://github-readme-stats.vercel.app/api/pin/?username=Mudasirking95&repo=TeamMSTBOT95&show_owner=true&theme=dark)
 
 
     
@@ -89,7 +89,7 @@ if scan qr is not working please try using pairing code i am currently working o
 
 ---
 1. ***GET QR FROM SERVER 1 [`SESSION ID `](https://pair-qr-wasi-md.onrender.com).***
-2.  ***GET QR FROM SERVER 2 [`SESSION ID by pair code`](https://pair-qr-Mst-md.onrender.com).***
+2.  ***GET QR FROM SERVER 2 [`SESSION ID by pair code`](https://pair-qr-wasi-md.onrender.com).***
 ---
 `it is currently powerful working` `IF QR OR PAIR DOESN'T WORK THEN REPORT ME ON WHATSAPP JOIN MY SUPPORT GC`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
@@ -99,10 +99,10 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <a href="https://pair-qr-wasi-md.onrender.com"><img title="MST SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
   # <a href="https://pair-qr-wasi-md.onrender.com"><img title="fork" src="https://img.shields.io/badge/pair code -h?color=darkblue&style=for-the-badge&logo=msi"></a>
 
-# <a href="https://github.com/wasixd/WASI-MD/fork"><img title="fork" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi"></a>
-# <a href="https://dashboard.heroku.com/new?template=https://github.com/wasixd/MST-MD"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=darkblue&style=for-the-badge&logo=msi"></a>
+# <a href="https://github.com/Mudasirking95/TeamMSTBOT95/fork"><img title="fork" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi"></a>
+# <a href="https://dashboard.heroku.com/new?template=https://github.com/Mudasirking95/TeamMSTBOT95"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 # <a href="https://railway.app/template/tM2McB?referralCode=v7Xehd"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=darkblue&style=for-the-badge&logo=msi"></a>
-# <a href="(https://replit.com/github/wasixd/WASI-MD"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=darkblue&style=for-the-badge&logo=msi"></a>
+# <a href="(https://replit.com/github.com/Mudasirking95/TeamMSTBOT95"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 # <a href="https://wasimd-9dedcea2edba.herokuapp.com/"><img title="koyeb" src="https://img.shields.io/badge/DEPLOY ON KYOEB-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
@@ -115,9 +115,9 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 ### I Am
 - 
-[![View My GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Itxxwasi)
+[![View My GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Mudasirking95)
 
-[![Chat on WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/+923192173398)
+[![Chat on WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/+923239950046)
 
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square&logo=instagram)](https://www.instagram.com/itx_mee_wasi)
 
@@ -132,6 +132,6 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 - *MST MDVis not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use WASI-Md at your own risk by keeping this warning in mind.*
-- [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/wasixd/WASI-MD)
+- [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/Mudasirking95/TeamMSTBOT95)
 
-[![MST tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+MST+MD;🙏;🙏+✍🏾;🥰)](https://github.com/wasixd)
+[![MST tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+MST+MD;🙏;🙏+✍🏾;🥰)](https://github.com/Mudasirking95/TeamMSTBOT95)
