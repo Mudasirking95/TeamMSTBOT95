@@ -15,7 +15,7 @@
    
    
 <p align="center">
-  <a href="https://wa.me/+923135673658?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+WASI-md+Repo" target="_blank">
+  <a href="https://wa.me/+923239950046?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+ɱµ∂αรเɾ-md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
  
   <a aria-label="mst-md is free to use" href="https://github.com/Mudasirking95/TeamMSTBOT95" target="_blank">
