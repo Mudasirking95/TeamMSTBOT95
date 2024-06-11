@@ -97,8 +97,8 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-<a href="https://pair-qr-mst-md.onrender.com"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkred&style=for-the-badge&logo=msi"></a>
-  # <a href="https://pair-qr-wasi-md.onrender.com"><img title="fork" src="https://img.shields.io/badge/pair code -h?color=darkred&style=for-the-badge&logo=msi"></a>
+<a href="https://pair-qr-mst-md.onrender.com"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=blue&style=for-the-badge&logo=msi"></a>
+  # <a href="https://pair-qr-mst-md.onrender.com"><img title="fork" src="https://img.shields.io/badge/pair code -h?color=blue&style=for-the-badge&logo=msi"></a>
 
 # <a href="https://github.com/Mudasirking95/TeamMSTBOT95/fork"><img title="fork" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 # <a href="https://dashboard.heroku.com/new?template=https://github.com/Mudasirking95/TeamMSTBOT95"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=darkblue&style=for-the-badge&logo=msi"></a>
