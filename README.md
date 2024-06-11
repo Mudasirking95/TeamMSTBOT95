@@ -135,4 +135,4 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 - *Use MST-Md at your own risk by keeping this warning in mind.*
 - [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/Mudasirking95/TeamMSTBOT95)
 
-[![MST tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+WASI+MD;🙏;🙏+✍🏾;🥰)](https://github.com/Mudasirking95)
+[![MST tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+MUDASIR+SPORTS+MST⁹⁵;🙏;🙏+✍🏾;🥰)](https://github.com/Mudasirking95)
