@@ -1,1 +1,20 @@
+var childToFork = require.resolve('myChildProcModule');
+var Fork = require('fork');
 
+var message = { action: 'start', whatever: 'blahblah' };
+var fork = new Fork({
+ path: childToFork
+retries: 3,
+backoff: true})
+fork(message)
+on('error', function(err) { console.error(err) })
+on('retry', function () { console.log('retrying')})
+fork.on('website:fetched', function (message) {
+
+var fork2 = new Fork(childToFork).start(message,
+function(err, returnMessage) {
+if (err) {
+ return console.error(err);
+}
+console.dir(returnMessage);
+});
