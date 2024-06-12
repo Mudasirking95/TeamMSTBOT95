@@ -56,13 +56,13 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 <a href="https://pair-qr-wasi-md.onrender.com"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
-  # <a href="https://pair-qr-wasi-md.onrender.com"><img title="fork" src="https://img.shields.io/badge/pair code -h?color=darkblue&style=for-the-badge&logo=msi"></a>
+  # <a href="https://pair-qr-wasi-md.onrender.com"><img title="fork" src="https://img.shields.io/badge/pair code -h?color=yellow&style=for-the-badge&logo=msi"></a>
 
-# <a href="https://github.com/wasixd/WASI-MD/fork"><img title="fork" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi"></a>
-# <a href="https://dashboard.heroku.com/new?template=https://github.com/wasixd/WASI-MD"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=darkblue&style=for-the-badge&logo=msi"></a>
-# <a href="https://railway.app/template/tM2McB?referralCode=v7Xehd"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=darkblue&style=for-the-badge&logo=msi"></a>
-# <a href="(https://replit.com/github/wasixd/WASI-MD"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=darkblue&style=for-the-badge&logo=msi"></a>
-# <a href="https://wasimd-9dedcea2edba.herokuapp.com/"><img title="koyeb" src="https://img.shields.io/badge/DEPLOY ON KYOEB-h?color=darkblue&style=for-the-badge&logo=msi"></a>
+# <a href="https://github.com/Mudasirking95/TeamMSTBOT95/fork"><img title="fork" src="https://img.shields.io/badge/FORK THIS REPO-h?color=yellow&style=for-the-badge&logo=msi"></a>
+# <a href="https://dashboard.heroku.com/new?template=https://github.com/wasixd/WASI-MD"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=msi"></a>
+# <a href="https://railway.app/template/tM2McB?referralCode=v7Xehd"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=yellow&style=for-the-badge&logo=msi"></a>
+# <a href="(https://replit.com/github/wasixd/WASI-MD"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=yellow&style=for-the-badge&logo=msi"></a>
+# <a href="https://wasimd-9dedcea2edba.herokuapp.com/"><img title="koyeb" src="https://img.shields.io/badge/DEPLOY ON KYOEB-h?color=yellow&style=for-the-badge&logo=msi"></a>
 
 </a>
 </p>
@@ -170,42 +170,15 @@ if scan qr is not working please try using pairing code i am currently working o
 <p align="left">
 <a href="https://youtu.be/FshoHx1Vk7U?si=bykHPB3juze4hIrg"><img align="center" src="https://telegra.ph/file/991e14c61b17a26c99da4.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
-[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+venocyber+md;🙏;🙏+✍🏾;🥰)](https://github.com/Mudasirking95)
+[![Mudasir tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+venocyber+md;🙏;🙏+✍🏾;🥰)](https://github.com/Mudasirking95)
 
 <h1>💗</h1> 
 <b>Thanks For</b> -
 
- [TeamMSTBOT95](https://wa.me/message/MSSH2UWWOQBDL1) for Voice ,[cecilia](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl) , [he.is.me](http://github.com/Venocybertech) , [Itxxwasi](https://wa.me/message/THZ3I25BYZM2E1) , [𝘎𝘪𝘧𝘵𝘦𝘥 𝘵𝘦𝘤𝘩](https://wa.me/message/NHCZC5DSOEUXB1) and [officialchuimsela](https://wa.me/+260769355624) thanks for helps 💖
-
- ## [ WHATSAPP GROUPS ](https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN)
+ [TeamMSTBOT95](https://wa.me/+923239950046) for Chief Admin  ,[Mudasir King](https://wa.me/+923239950046) , [Fayaz Ali](https://wa.me/+923239950046) , [Azeem Ali](https://wa.me/+923239950046) , [Afraz Malik](https://wa.me/+923239950046) and [Kamran](https://wa.me/+923239950046) thanks for helps 💖
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-©2024
-█░█ █▀ █▄░█ ▄▀▄ ▄▀ █░█ █▀▄
-█░█ █▀ █░▀█ █░█ █░ ▀▄▀ █▀█
-░▀░ ▀▀ ▀░░▀ ░▀░ ░▀ ░▀░ ▀▀░
-█▀ █▀▀▄
-█▀ █▐█▀  
-█▀▄▀█ █▀▄
-█░▀░█ █▄▀
-▀▀ ▀░▀▀
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+[![Mudasir tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+мυ∂αѕιя+κιиg⁹⁵;Admin🥰)](https://github.com/Mudasirking95)
 
-[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+мυ∂αѕιя+κιиg⁹⁵;Admin🥰)](https://github.com/Mudasirking95)
-
-<p align="center">
-  <a href="https://github.com/Mudasirking95/TeamMSTBOT95">
-    <img alt="мυ∂αѕιя κιиg⁹⁵" height="300" src="https://telegra.ph/file/8197615d8b2f4b16899ad.jpg">
-  </a>
-</p>
-    
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-### UPDATE
-SUPPORT NUMBERS ARE CHANGED DUE TO UNEXPECTED ISSUES HERE ARE THE NEW [NUMBERS](https://wa.me/255689606561?text=hi%20bro%20i%20saved%20your%20number%20save%20mine%20too%20i'm) ![IMG_20240608_104918_450](https://github.com/Mudasirking95/TeamMSTBOT95/assets/171659756/475918ca-406d-41ee-b696-bbcc7aef9b1f)
 
