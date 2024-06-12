@@ -56,11 +56,11 @@
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingjux%2Fvenocyber-md"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://venocyber-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
-  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Kingjux/Venocyber-md-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255698101622&env[MONGODB_URI]&&env[OWNER_NAME]=venocyber ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Venocyber ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=VENOCYBER&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Venocyber-tech&env[KOYEB_NAME]=Venocyber-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/ecb1a11c450276bf7d396.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
+  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Mudasirking95/TeamMSTBOT95-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=923239950046&env[MONGODB_URI]&&env[OWNER_NAME]=мυ∂αѕιя κιиg⁹⁵&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=мυ∂αѕιя κιиg⁹⁵   ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=мυ∂αѕιя κιиg⁹⁵  &env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Venocyber-tech&env[KOYEB_NAME]=мυ∂αѕιя κιиg⁹⁵  &env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/ecb1a11c450276bf7d396.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 </p>
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
-<p align="center">Need help? please create an <a href="https://github.com/Kingjux/Venocyber-md/issues">issue</a></p>
+<p align="center">Need help? please create an <a href="https://github.com/Mudasirking95/TeamMSTBOT/issues">issue</a></p>
 
  
 
@@ -79,6 +79,7 @@
 6.  ***Rolling Dice.***
 7.  ***Character Guessing Game.***
 8.  ***Capital of City Finding.***
+9.  ***MUDASIR SPORTS TEAM 95***
 ##
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -87,9 +88,9 @@
 
 
 
-<h3>Venocyber-MD Stats</h3>
+<h3>TeamMSTBOT95 Stats</h3>
 
-![Venocyber-md Stats](https://github-readme-stats.vercel.app/api/pin/?username=kingjux&repo=venocyber-md&show_owner=true&theme=dark)
+![мυ∂αѕιя κιиg⁹⁵   Stats](https://github-readme-stats.vercel.app/api/pin/?username=Mudasirking95&repo=TeamMSTBOT95&show_owner=true&theme=dark)
 
 
     
@@ -107,11 +108,11 @@ if scan qr is not working please try using pairing code i am currently working o
 `it is currently powerful working`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
 3.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
-4.  ***Click [`FORK`](https://github.com/Kingjux/Venocyber-md/fork) and `Star ⭐ Repository` for Courage.***
+4.  ***Click [`FORK`](https://github.com/Mudasirking95/TeamMSTBOT95/fork) and `Star ⭐ Repository` for Courage.***
 5.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 6.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
 7.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingjux%2Fvenocyber-md)***
-8.  ***Deploy on [`Replit`](https://replit.com/github/kingjux/Venocyber-Md)***
+8.  ***Deploy on [`Replit`](https://replit.com/github/Mudasirking95/TeamMSTBOT95)***
 9.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
 10.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Kingjux/Venocyber-md-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255698101622env[MONGODB_URI]&&env[OWNER_NAME]=Venocyber&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Venocyber+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=VENOCYBER&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Venocyber-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/ecb1a11c450276bf7d396.jpg)***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -126,7 +127,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 
 ### I Am
-- [Venocyber Tech](https://github.com/kingjux) 
+- [мυ∂αѕιя κιиg⁹⁵  ](https://github.com/Mudasirking95) 
 
 # please click the following button  and  fill the details to support my project
 
@@ -140,10 +141,10 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 </h2>
    
 ## 
-- *Venocyber-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *TeamMSTBOT95 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Venocyber-Md at your own risk by keeping this warning in mind.*
-- [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/kingjux/Venocyber-md)
+- *Use TeamMSTBOT95 at your own risk by keeping this warning in mind.*
+- [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/Mudasirking95/TeamMSTBOT95)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -180,12 +181,12 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <p align="left">
 <a href="https://youtu.be/FshoHx1Vk7U?si=bykHPB3juze4hIrg"><img align="center" src="https://telegra.ph/file/991e14c61b17a26c99da4.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
-[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+venocyber+md;🙏;🙏+✍🏾;🥰)](https://github.com/Kingjux)
+[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+venocyber+md;🙏;🙏+✍🏾;🥰)](https://github.com/Mudasirking95)
 
 <h1>💗</h1> 
 <b>Thanks For</b> -
 
- [venocyber 💖](https://wa.me/message/MSSH2UWWOQBDL1) for Voice ,[cecilia](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl) , [he.is.me](http://github.com/Venocybertech) , [Itxxwasi](https://wa.me/message/THZ3I25BYZM2E1) , [𝘎𝘪𝘧𝘵𝘦𝘥 𝘵𝘦𝘤𝘩](https://wa.me/message/NHCZC5DSOEUXB1) and [officialchuimsela](https://wa.me/+260769355624) thanks for helps 💖
+ [TeamMSTBOT95](https://wa.me/message/MSSH2UWWOQBDL1) for Voice ,[cecilia](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl) , [he.is.me](http://github.com/Venocybertech) , [Itxxwasi](https://wa.me/message/THZ3I25BYZM2E1) , [𝘎𝘪𝘧𝘵𝘦𝘥 𝘵𝘦𝘤𝘩](https://wa.me/message/NHCZC5DSOEUXB1) and [officialchuimsela](https://wa.me/+260769355624) thanks for helps 💖
 
  ## [ WHATSAPP GROUPS ](https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN)
 
@@ -203,11 +204,11 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+venocyber;Admin🥰)](https://github.com/Kingjux)
+[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+мυ∂αѕιя+κιиg⁹⁵;Admin🥰)](https://github.com/Mudasirking95)
 
 <p align="center">
-  <a href="https://github.com/Kingjux/Venocyber-md">
-    <img alt="venocyber docs" height="300" src="https://telegra.ph/file/8197615d8b2f4b16899ad.jpg">
+  <a href="https://github.com/Mudasirking95/TeamMSTBOT95">
+    <img alt="мυ∂αѕιя κιиg⁹⁵" height="300" src="https://telegra.ph/file/8197615d8b2f4b16899ad.jpg">
   </a>
 </p>
     
