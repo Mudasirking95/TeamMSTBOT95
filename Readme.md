@@ -13,7 +13,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
   <a href="https://github.com/Mudasirking95/TeamMSTBOT95">
-    <img alt="мυ∂αѕιя κιиg⁹⁵ docs" height="300" src="https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg">
+    <img alt="мυ∂αѕιя κιиg⁹⁵ docs" height="300" src="https://telegra.ph/file/b77ecdeaecf7f1327d96d.jpg">
   </a>
 </p>
     
