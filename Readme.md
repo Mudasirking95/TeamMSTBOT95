@@ -56,7 +56,7 @@
 # <a href="https://wasimd-9dedcea2edba.herokuapp.com/"><img title="koyeb" src="https://img.shields.io/badge/DEPLOY ON KYOEB-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 
 [![------------------------------------
-    href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Mudasirking95/TeamMSTBOT95-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=923239950046&env[MONGODB_URI]&&env[OWNER_NAME]=мυ∂αѕιя κιиg⁹⁵&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=мυ∂αѕιя κιиg⁹⁵   ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=мυ∂αѕιя κιиg⁹⁵  &env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Venocyber-tech&env[KOYEB_NAME]=мυ∂αѕιя κιиg⁹⁵  &env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/ecb1a11c450276bf7d396.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
+src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 </p>
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
