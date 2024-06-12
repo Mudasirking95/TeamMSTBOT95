@@ -42,6 +42,15 @@
 <p align="center">
   <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Javascript-363303?style=for-the-badge&logo=javascript&logoColor=c6c631"></img>
 </p>
+### I Am
+
+[![View My GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Mudasirking95)
+
+[![Chat on WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/+923239950046)
+
+[![JoinGroup](https://img.shields.io/badge/JoinGroup-Profile-orange?style=flat-square&logo=Sports)](https://chat.whatsapp.com/ERabPOT0akr9h8lZBfNXHa)
+
+[![Telegram](https://img.shields.io/badge/Telegram-Profile-blue?style=flat-square&logo=telegram)](https://t.me/@mudasirking95)
 
 ---
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
