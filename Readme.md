@@ -179,6 +179,6 @@ if scan qr is not working please try using pairing code i am currently working o
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![Mudasir tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+мυ∂αѕιя+κιиg⁹⁵;Admin🥰)](https://github.com/Mudasirking95)
+[![Mudasir tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFS&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+мυ∂αѕιя+κιиg⁹⁵;Admin🥰)](https://github.com/Mudasirking95)
 
 
