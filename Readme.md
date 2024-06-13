@@ -1,66 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Analog Clock</title>
+  </head>
 
-    Calendar calendar;
-    SimpleDateFormat timeFormat,dayFormat,dateFormat;
-    JLabel timeLable,dayLable,dateLable;
-    String time,day,date;
+  <body>
+    <div class="container">
+      <div class="clock">
+        <div style="--clr: #ff3d58; --h: 74px" id="hour" class="hand">
+          <i></i>
+        </div>
+        <div style="--clr: #00a6ff; --h: 84px" id="min" class="hand">
+          <i></i>
+        </div>
+        <div style="--clr: #ffffff; --h: 94px" id="sec" class="hand">
+          <i></i>
+        </div>
 
+        <span style="--i: 1"><b>1</b></span>
+        <span style="--i: 2"><b>2</b></span>
+        <span style="--i: 3"><b>3</b></span>
+        <span style="--i: 4"><b>4</b></span>
+        <span style="--i: 5"><b>5</b></span>
+        <span style="--i: 6"><b>6</b></span>
+        <span style="--i: 7"><b>7</b></span>
+        <span style="--i: 8"><b>8</b></span>
+        <span style="--i: 9"><b>9</b></span>
+        <span style="--i: 10"><b>10</b></span>
+        <span style="--i: 11"><b>11</b></span>
+        <span style="--i: 12"><b>12</b></span>
+      </div>
+    </div>
 
-    DigitalClock() {
-        this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        this.setTitle("@arjuntripathiprogramming");
-        this.setLayout(new FlowLayout());
-        this.setSize(350,200);
-        this.setResizable(false);
-
-        timeFormat = new SimpleDateFormat("hh:mm:ss a");
-        dayFormat = new SimpleDateFormat("EEEE");
-        dateFormat = new SimpleDateFormat("MMMMM dd, yyyy");
-
-        timeLable = new JLabel();
-        dayLable = new JLabel();
-        dateLable = new JLabel();
-
-        time = timeFormat.format(Calendar.getInstance().getTime());
-
-        timeLable.setText(time);
-        timeLable.setFont(new Font("",Font.PLAIN,50));
-        timeLable.setForeground(new Color(0x00FF00));
-        timeLable.setBackground(Color.black);
-        timeLable.setOpaque(true);
-
-        dayLable.setFont(new Font("",Font.PLAIN,35));
-        dateLable.setFont(new Font("",Font.PLAIN,35));
-
-        this.add(timeLable);
-        this.add(dayLable);
-        this.add(dateLable);
-        this.setVisible(true);
-
-        setTime();
-    }
-
-    public void setTime() {
-        while(true) {
-            time = timeFormat.format(Calendar.getInstance().getTime());
-            timeLable.setText(time);
-
-            day = dayFormat.format(Calendar.getInstance().getTime());
-            dayLable.setText(day);
-
-            date = dateFormat.format(Calendar.getInstance().getTime());
-            dateLable.setText(date);
-
-            try{
-            Thread.sleep(1000);
-            }catch (Exception e){
-                System.out.println(e);
-            }
-        }
-    }
-
-    public static void main(String []clock) {
-        new DigitalClock(); 
-    }
+    <script src="script.js"></script>
+  </body>
+</html>
+        
 }
 ---
 <h1 align="center"> мυ∂αѕιя κιиg⁹⁵  </h1> 
