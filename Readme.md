@@ -8,7 +8,7 @@
 <a><img
 # DigitalClock
 ![1212](https://user-images.githubusercontent.com/29798155/115163471-c12d4080-a0c2-11eb-87cb-915e6fd4d581.gif)
-
+You can see a live demo of the JavaScript clock [here](https://tirthagit.github.io/JavaScript-Clock/).
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
