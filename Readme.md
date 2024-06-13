@@ -5,7 +5,8 @@
 
 [![мυ∂αѕιя κιиg⁹⁵ ](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+site;I+am+мυ∂αѕιя+κιиg⁹⁵+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/Mudasirking95)
 
-# MSTDigitalClock
+<a><img
+# DigitalClock
 ![1212](https://user-images.githubusercontent.com/29798155/115163471-c12d4080-a0c2-11eb-87cb-915e6fd4d581.gif)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
