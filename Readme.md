@@ -1,9 +1,78 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+import java.awt.*;
+import java.util.Calendar;
+import java.text.SimpleDateFormat;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+
+public class DigitalClock extends JFrame {
+
+    Calendar calendar;
+    SimpleDateFormat timeFormat,dayFormat,dateFormat;
+    JLabel timeLable,dayLable,dateLable;
+    String time,day,date;
+
+
+    DigitalClock() {
+        this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        this.setTitle("@arjuntripathiprogramming");
+        this.setLayout(new FlowLayout());
+        this.setSize(350,200);
+        this.setResizable(false);
+
+        timeFormat = new SimpleDateFormat("hh:mm:ss a");
+        dayFormat = new SimpleDateFormat("EEEE");
+        dateFormat = new SimpleDateFormat("MMMMM dd, yyyy");
+
+        timeLable = new JLabel();
+        dayLable = new JLabel();
+        dateLable = new JLabel();
+
+        time = timeFormat.format(Calendar.getInstance().getTime());
+
+        timeLable.setText(time);
+        timeLable.setFont(new Font("",Font.PLAIN,50));
+        timeLable.setForeground(new Color(0x00FF00));
+        timeLable.setBackground(Color.black);
+        timeLable.setOpaque(true);
+
+        dayLable.setFont(new Font("",Font.PLAIN,35));
+        dateLable.setFont(new Font("",Font.PLAIN,35));
+
+        this.add(timeLable);
+        this.add(dayLable);
+        this.add(dateLable);
+        this.setVisible(true);
+
+        setTime();
+    }
+
+    public void setTime() {
+        while(true) {
+            time = timeFormat.format(Calendar.getInstance().getTime());
+            timeLable.setText(time);
+
+            day = dayFormat.format(Calendar.getInstance().getTime());
+            dayLable.setText(day);
+
+            date = dateFormat.format(Calendar.getInstance().getTime());
+            dateLable.setText(date);
+
+            try{
+            Thread.sleep(1000);
+            }catch (Exception e){
+                System.out.println(e);
+            }
+        }
+    }
+
+    public static void main(String []clock) {
+        new DigitalClock(); 
+    }
+}
 <h1 align="center"> мυ∂αѕιя κιиg⁹⁵  </h1> 
 <p align="center"> Introducing мυ∂αѕιя κιиg⁹⁵ , It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.c
 
 [![мυ∂αѕιя κιиg⁹⁵ ](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+site;I+am+мυ∂αѕιя+κιиg⁹⁵+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/Mudasirking95)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
