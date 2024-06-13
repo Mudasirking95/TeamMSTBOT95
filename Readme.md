@@ -1,11 +1,3 @@
-<a
-import java.awt.*;
-import java.util.Calendar;
-import java.text.SimpleDateFormat;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-
-public class DigitalClock extends JFrame {
 
     Calendar calendar;
     SimpleDateFormat timeFormat,dayFormat,dateFormat;
