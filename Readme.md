@@ -1,13 +1,15 @@
 <h1 align="center"> мυ∂αѕιя κιиg⁹⁵  </h1> 
 <p align="center"> Introducing мυ∂αѕιя κιиg⁹⁵ , It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
+-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.c
 
-[![мυ∂αѕιя κιиg⁹⁵ ](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+site;I+am+мυ∂αѕιя+κιиg⁹⁵+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/Mudasirking95)
-
+[![мυ∂αѕιя κιиg⁹⁵ ](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+site;I+am+мυ∂αѕιя+κιиg⁹⁵+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/Mudasirking95)]
 <a><img
+
 # DigitalClock
 ![1212](https://user-images.githubusercontent.com/29798155/115163471-c12d4080-a0c2-11eb-87cb-915e6fd4d581.gif)
+
 You can see a live demo of the JavaScript clock [here](https://tirthagit.github.io/JavaScript-Clock/).
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
